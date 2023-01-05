@@ -142,3 +142,42 @@ main{
 .card-description{
     color: #757575;
 }
+/* resume style */
+.resume-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    color: #181818;
+    margin-bottom: 110px;
+}
+.resume-section{
+    display: flex;
+    gap: 30px;
+}
+.edu-title{
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+.edu-course-title{
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+.edu-description{
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+}
+.pera{
+    color: #757575;
+    margin-bottom: 30px;
+}
+/* resume button */
+.resume-button{
+    text-align:center;
+    margin-top: 50px;
+}
